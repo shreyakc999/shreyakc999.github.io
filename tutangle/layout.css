@@ -59,7 +59,7 @@
   .search{
     position: absolute;
     border: 3px solid palegreen;
-    width: 200 px;
+    width: 370px; height: 25px;
     left: 380px;
 
 }
@@ -111,7 +111,7 @@
 
 .body-wrapper-left{
     float: left;
-    width: 35%;
+    width: 29%;
     height: 100%;
     border: 3px solid green;
 }
@@ -120,7 +120,7 @@
 
     /*left: 20%;*/
     position: absolute;
-    width: 60%;
+    width: 67%;
     height: 100%;
     border: 3px solid green;
     top: 0px;
