@@ -37,6 +37,7 @@
     float: right;
 }
 
+
 .logo{
     float: left;
     width: 200px;
@@ -76,7 +77,9 @@
 .login-info li{
     display:inline-block;color: black;
 }
-
+.nav-list{
+    color:black;
+}
 .a{
     color: black;
 }
